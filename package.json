@@ -1,0 +1,21 @@
+{
+  "name": "prasun",
+  "version": "0.0.1",
+  "description": "Express Application",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.0",
+    "bson": "^0.4.2",
+    "http": "^0.0.0",
+    "mongodb": "^2.0.33"
+  },
+  "devDependencies": {
+    "express":"4.13.x"
+    },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Prasun Kumar Das",
+  "license": "ISC"
+}
